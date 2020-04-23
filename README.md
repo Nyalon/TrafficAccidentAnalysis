@@ -37,8 +37,8 @@ Data source: https://www.kaggle.com/sobhanmoosavi/us-accidents/data
 ## Conclusion and Findings
 
 - Accidents are most likely to occur during the day however accidents during the night have a higher chance of being more severe. 
-- Major US cities, including those in Raleigh, have a greater frequency of traffic accidents. 
-- Nationally, the most severe accidents follow the major highways. Locally, the most severe accidents occur on the beltline and at major. 
+- Major US cities, including Raleigh have a greater frequency of traffic accidents. 
+- Nationally, the most severe accidents follow the major highways. Locally, the most severe accidents occur on the beltline and at major intersections. 
 - Regardless of what part of the day the accidents occurred, the presence of certain types of precipitation (rain, snow, and fog) indicated a greater severity of accidents. 
 
 ## Authors
